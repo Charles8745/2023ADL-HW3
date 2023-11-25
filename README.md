@@ -23,9 +23,9 @@
     ```
     bash ./download.sh
     ```
-- Option2: Download ADLHW2_beam_50k.zip by gDrive: 
+- Option2: Download by gDrive: 
     
-    https://drive.google.com/file/d/1-8F74EFp7x7t6EjnokAlitieAspipU63/view?usp=drive_link
+    https://drive.google.com/file/d/1SkgUdM4GcFcmm3DiRwXdud1Wj9i1H2bA/view?usp=drive_link
 
 ## Inferance
 - Required input json format:
